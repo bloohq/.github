@@ -6,7 +6,7 @@
 
 **[Blue](https://blue.cc) is a powerful platform to create, manage, and scale processes.** It's the system for modern operations — gain visibility, speed up processes, and scale your organization.
 
-📖 **[Documentation](https://blue.cc/docs)** · 🔌 **[API Reference](https://blue.cc/api)** · 📣 **[Changelog](https://blue.cc/platform/changelog)** · 🚀 **[Releases](https://blue.cc/platform/releases)** · 🟢 **[Status](https://blue.cc/platform/status)**
+📖 **[Documentation](https://blue.cc/docs)** · 🔌 **[API Reference](https://blue.cc/api)** · 📣 **[Changelog](https://blue.cc/platform/changelog)** · 🚀 **[Roadmap](https://blue.cc/platform/roadmap)** · 🟢 **[Status](https://blue.cc/platform/status)**
 
 ---
 
