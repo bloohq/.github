@@ -20,14 +20,14 @@
 | [infra](https://github.com/heyblueteam/infra) | Core Platform | Infrastructure-as-code configuration | Private |
 | [ios](https://github.com/heyblueteam/ios) | Mobile | Blue iOS mobile application | Private |
 | [android](https://github.com/heyblueteam/android) | Mobile | Blue Android mobile application | Private |
-| [cli](https://github.com/heyblueteam/cli) | Developer Tools & SDKs | Command line interface for AI agents and scripts to programmatically interact with Blue | Public |
-| [python-sdk](https://github.com/heyblueteam/python-sdk) | Developer Tools & SDKs | Python SDK for integrating with the Blue API | Public |
-| [support-agent](https://github.com/heyblueteam/support-agent) | Developer Tools & SDKs | AI-powered customer support automation | Public |
-| [forms](https://github.com/heyblueteam/forms) | Integrations & Utilities | Form builder and management | Private |
-| [files](https://github.com/heyblueteam/files) | Integrations & Utilities | File management services | Private |
-| [meilisearch-docker-render](https://github.com/heyblueteam/meilisearch-docker-render) | Integrations & Utilities | Deploy Meilisearch to render.com | Public |
-| [import-export](https://github.com/heyblueteam/import-export) | Integrations & Utilities | Data import and export utilities | Private |
-| [svelte-gantt](https://github.com/heyblueteam/svelte-gantt) | Integrations & Utilities | Gantt chart component for Svelte | Public |
+| [cli](https://github.com/heyblueteam/cli) | Dev Tools & SDKs | Command line interface for AI agents and scripts to programmatically interact with Blue | Public |
+| [python-sdk](https://github.com/heyblueteam/python-sdk) | Dev Tools & SDKs | Python SDK for integrating with the Blue API | Public |
+| [support-agent](https://github.com/heyblueteam/support-agent) | Dev Tools & SDKs | AI-powered customer support automation | Public |
+| [forms](https://github.com/heyblueteam/forms) | Utility | Form builder and management | Private |
+| [files](https://github.com/heyblueteam/files) | Utility | File management services | Private |
+| [meilisearch-docker-render](https://github.com/heyblueteam/meilisearch-docker-render) | Utility | Deploy Meilisearch to render.com | Public |
+| [import-export](https://github.com/heyblueteam/import-export) | Utility | Data import and export utilities | Private |
+| [svelte-gantt](https://github.com/heyblueteam/svelte-gantt) | Utility | Gantt chart component for Svelte | Public |
 | [website](https://github.com/heyblueteam/website) | Other | The public Blue website | Public |
 
 ---
